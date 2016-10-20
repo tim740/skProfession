@@ -1,0 +1,7 @@
+name: skProfession
+description: An addon for skript that adds villager spawning with profession.
+author: tim740
+website: https://tim740.github.io/
+main: uk.tim740.skProfession.skProfession
+version: 0.1.0
+depend: [Skript]
